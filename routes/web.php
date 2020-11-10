@@ -18,5 +18,5 @@ Route::get('/', function () {
 });
 
 
-// Backend
+// For Backend
 Route::resource('testing', 'TestingController');
