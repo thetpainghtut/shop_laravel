@@ -94,6 +94,8 @@
                     <a href="https://vapor.laravel.com">Vapor</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
+
+                <img src="{{asset('storage/myimg/img.jpg')}}">
             </div>
         </div>
     </body>
