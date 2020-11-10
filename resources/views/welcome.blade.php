@@ -95,7 +95,11 @@
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
 
+                <img src="{{asset('images/testing.png')}}" width="100px">
+
                 <img src="{{asset('storage/myimg/img.jpg')}}">
+
+
             </div>
         </div>
     </body>
