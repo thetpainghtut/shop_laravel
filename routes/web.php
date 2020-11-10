@@ -17,6 +17,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-
 // Backend
 // Route::resource('testing', 'TestingController');
