@@ -19,4 +19,4 @@ Route::get('/', function () {
 
 
 // Backend
-Route::resource('testing', 'TestingController');
+// Route::resource('testing', 'TestingController');
